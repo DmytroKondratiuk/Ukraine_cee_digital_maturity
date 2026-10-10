@@ -1,0 +1,11 @@
+technology,label,layer,enterprises_using,enterprises_with_agricultural_land,estimated_share_pct
+ROBOTICS,Robotics,C,1193,30201,3.9502003244925663
+MAC_ROB_PPP,Robots for plant protection products,L3,911,30201,3.016456408728188
+BAND_SPRAY_PPP,Band spraying of plant protection products,L3,420,30201,1.390682427734181
+VAR_RATE_TECH,Variable rate technology,L3,391,30201,1.2946591172477733
+PREC_MON_CROPS,Precision crop monitoring,L3,888,30201,2.940299990066554
+SOIL_ANALYSIS,Soil analysis,L3,349,30201,1.155590874474355
+AUTO_FEED_SYS,Automatic feeding systems,L3,367,30201,1.2151915499486772
+MILK_ROBOTS,Milking robots,L3,74,30201,0.24502499917221285
+MON_ANIMALS,Animal health monitoring,L3,198,30201,0.6556074302175424
+AUTO_REG_CLIMATE,Automatic climate regulation,L3,354,30201,1.1721466176616668
