@@ -446,5 +446,13 @@
   "url": "https://stat.gov.ua/sdmx/workspaces/default:integration/registry/sdmx/3.0/data/dataflow/SSSU/DF_AREA_HARVESTS_CROP_YIELD_A/~/NMBR_ENTERPRISE.*.*.*.*.*.*.*.*",
   "downloaded": "2026-10-09",
   "note": "compressed copy of the API response"
+ },
+ {
+  "file": "data/raw/ukrstat_farms/DF_STOCKBREEDING_FODDER_A_NMBR_ENTERPRISE.csv.zip",
+  "bytes": 79901,
+  "sha256": "4d1182bd52ea3cd1d7d5071b0c19462df71e32f4b5bffc37c2101c17e60e6ea3",
+  "url": "https://stat.gov.ua/sdmx/workspaces/default:integration/registry/sdmx/3.0/data/dataflow/SSSU/DF_STOCKBREEDING_FODDER_A/~/NMBR_ENTERPRISE.*.*.*.*.*.*.*.*.*",
+  "downloaded": "2026-10-28",
+  "note": "compressed copy of the API response"
  }
 ]

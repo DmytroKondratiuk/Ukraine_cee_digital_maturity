@@ -1,5 +1,4 @@
 # Citation metadata (Citation File Format 1.2.0). GitHub shows a "Cite this repository" button from this file.
-# Fill in repository-code and doi after the repository is published and archived on Zenodo.
 cff-version: 1.2.0
 message: "If you use these data or the workbook, please cite the paper (preferred-citation) and this package."
 type: dataset
@@ -7,7 +6,7 @@ title: "Ukrainian agri-food digital maturity against new EU member states: repli
 abstract: >-
   Replication package for the paper "Ukrainian agri-food digital maturity against new EU member states".
   It contains the original API responses of Eurostat (Integrated Farm Statistics 2023; ICT usage in
-  enterprises, NACE C10-C12) and of the State Statistics Service of Ukraine (2025), the derived tables, and
+  enterprises, NACE C10-C12) and of the State Statistics Service of Ukraine (2024–2025), the derived tables, and
   an Excel workbook in which every number reported in the paper is a live formula over the official values:
   farm-level technology shares and partial layer scores, the ADMI digital maturity index of food processing
   for nine Central and Eastern European EU member states and Ukraine, maturity levels, TOPSIS and min-max
@@ -19,11 +18,11 @@ authors:
     orcid: "https://orcid.org/0009-0004-7220-3568"
     email: k-d-m@ukr.net
     affiliation: "Polissia National University, Zhytomyr, Ukraine"
-version: 1.0.0
-date-released: "2026-10-10"
+version: 1.1.0
+date-released: "2026-10-28"
 license: MIT
-# repository-code: "https://github.com/<user>/ukraine_cee_digital_maturity"
-# doi: "10.5281/zenodo.<id>"
+repository-code: "https://github.com/DmytroKondratiuk/Ukraine_cee_digital_maturity"
+doi: "10.5281/zenodo.23284173"
 keywords:
   - digital maturity
   - agri-food system
@@ -46,7 +45,7 @@ references:
       - name: Eurostat
     year: 2026
   - type: data
-    title: "Availability of agricultural machinery; areas, gross harvests and yields of crops; use of information and communication technologies in enterprises (DF_AGR_MACHINERY_AVAILABILITY, DF_AREA_HARVESTS_CROP_YIELD_A, DF_INFORM_COMMUN_TECH_ENTRP)"
+    title: "Availability of agricultural machinery; areas, gross harvests and yields of crops; livestock production, number of farm animals and their provision with feed; use of information and communication technologies in enterprises (DF_AGR_MACHINERY_AVAILABILITY, DF_AREA_HARVESTS_CROP_YIELD_A, DF_STOCKBREEDING_FODDER_A, DF_INFORM_COMMUN_TECH_ENTRP)"
     authors:
       - name: State Statistics Service of Ukraine
     year: 2026
