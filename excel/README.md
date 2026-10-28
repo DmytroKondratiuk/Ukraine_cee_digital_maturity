@@ -31,5 +31,4 @@ Every number on the calculation sheets is an Excel formula. Blue cells are value
 
 ## Verification
 
-- Before release every formula of this workbook was evaluated with an independent engine (pycel) and compared with a separate Python implementation of the same calculations; all values agreed within 1e-9.
 - Spearman correlations use 1 - 6 * sum(d^2) / (n (n^2 - 1)) with n = 10 (nine CEE countries and Ukraine).

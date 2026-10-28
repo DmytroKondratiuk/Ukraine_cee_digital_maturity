@@ -18,7 +18,7 @@ Open `excel/UA_CEE_workbook.xlsx`. Nothing else is needed: no code, no add-ins.
 - Yellow cells on the sheet `Parameters` (penalty strength alpha, threshold delta, maximum year gap) may be changed, and every sheet recalculates.
 - Every other cell is a formula: farm shares and partial layer scores, the food-processing index, levels and ranks, TOPSIS, orientations, the min-max check and the sensitivity checks of the paper (Table 7).
 - The sheet `Paper_tables` reproduces every table of the paper (Tables 1-7 and Appendix Tables A1-A2) as formulas over the calculation sheets, and `Paper_tables_UA` gives the same tables in Ukrainian; the sheets `Figure_1` and `Figure_2` hold the two figures as native Excel charts with their data (the yellow cell B3 switches the labels between English and Ukrainian).
-- Before release the workbook was evaluated, all computed values agreed within 1e-9. `excel/README.md` describes each sheet.
+- `excel/README.md` describes each sheet.
 
 ## Contents
 
